@@ -6,4 +6,4 @@
 
 # update  
 
-Not using this repo anymore. Check [Paper summarize new link](https://t-koba-96.github.io/section/paper/)
+Not using this repo anymore. Check [Paper summarize new link](https://t-koba-96.github.io/publication/)
